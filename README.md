@@ -1,6 +1,6 @@
 # Projeto: Site do Homem-Aranha
 
-Este é um projeto de site baseado no universo do Homem-Aranha, desenvolvido por [seu nome]. O site é uma homenagem ao famoso super-herói, oferecendo aos fãs uma experiência envolvente e interativa.
+Este é um projeto de site baseado no universo do Homem-Aranha, desenvolvido por lucas santos. O site é uma homenagem ao famoso super-herói, oferecendo aos fãs uma experiência envolvente e interativa.
 
 ## Principais Recursos:
 
